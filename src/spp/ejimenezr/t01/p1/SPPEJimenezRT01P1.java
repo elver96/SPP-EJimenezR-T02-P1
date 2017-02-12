@@ -71,6 +71,8 @@ public class SPPEJimenezRT01P1 {
                 sF=sue+(he*150);
                 System.out.println("El sueldo final es "+sF);
                 break;
+            default:
+                break;
             }
             }
         else {
